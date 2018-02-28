@@ -1,0 +1,20 @@
+[submodule "ovpn3/core"]
+	path = ovpn3/core
+	url = https://github.com/impulse-point/openvpn3.git
+	branch = master
+[submodule "dependencies/lz4-master"]
+	path = dependencies/lz4-master
+	url = https://github.com/impulse-point/lz4
+	branch = master
+[submodule "dependencies/mbedtls-master"]
+	path = dependencies/mbedtls-master
+	url = https://github.com/impulse-point/mbedtls
+	branch = master
+[submodule "dependencies/asio-master"]
+	path = dependencies/asio-master
+	url = https://github.com/impulse-point/asio
+	branch = master
+[submodule "tap-windows"]
+	path = tap-windows
+	url = https://github.com/impulse-point/tap-windows6
+	branch = master
